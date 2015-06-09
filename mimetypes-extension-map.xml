@@ -1,0 +1,13 @@
+<alfresco-config area="mimetype-map">
+   
+
+   <config evaluator="string-compare" condition="Mimetype Map">
+      <mimetypes>
+
+         <mimetype mimetype="application/pdf" display="Adobe PDF Document"/>
+       <extension>pdf</extension>
+      </mimetypes>
+   </config>
+
+   
+</alfresco-config>
